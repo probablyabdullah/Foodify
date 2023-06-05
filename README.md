@@ -1,5 +1,7 @@
 # Foodify
 **A figma front-end prototype for a subscription-based food delivery application. Fully ready, with smooth complete animations!**
+
+
 Foodify is a complete subscription-based food delivery application which includes 25+ specially curated screens and proprietary elements with smooth fluid animations between every clickable object. It's a complete ready to present project with screens such as Login screens, OnBoarding screens and even a tracking page. We have even included a customer-support page which you don't see on most projects. The UI has followed a single scheme with a fixed set of colors being repeated throughout the UI to ensure uniformity and a modern design language.
 
 This project was adjudged the best project of the `Introduction to UI/UX Design` course during the Winter Semester of the PESU/IO program, Slot 14, conducted by Kulachi Thapar at PES University, South Campus, Bengaluru.
