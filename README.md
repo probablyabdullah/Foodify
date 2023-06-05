@@ -15,18 +15,28 @@ This project was adjudged the best project of the `Introduction to UI/UX Design`
 **Sample Screenshots:**
 
 First Splash Screen:
+
+
 ![Screenshot 2023-06-05 131106](https://github.com/probablyabdullah/Foodify/assets/79295754/f0bafa33-b3fa-4e8b-8b61-6b120354cc70)
 
 Login Screen:
+
+
 ![Screenshot 2023-06-05 131145](https://github.com/probablyabdullah/Foodify/assets/79295754/8a81d332-c38a-4c3b-87e0-15a273a0aa9b)
 
 Home Screen:
+
+
 ![Screenshot 2023-06-05 131248](https://github.com/probablyabdullah/Foodify/assets/79295754/177750f3-227f-4aaa-9dae-98efdd76287c)
 
 Product Page:
+
+
 ![Screenshot 2023-06-05 131318](https://github.com/probablyabdullah/Foodify/assets/79295754/6990ce0b-9b22-40d0-9691-e97f44f1eaef)
 
 Tracking Page:
+
+
 ![Screenshot 2023-06-05 131340](https://github.com/probablyabdullah/Foodify/assets/79295754/7eaacfc2-3a3b-46b6-807c-28ac7aacf384)
 
-Download the Figma file from the releases page as there's no other way to upload it on github!
+**Download the Figma file from the releases page as there's no other way to upload it on github!**
