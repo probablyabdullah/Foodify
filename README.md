@@ -7,6 +7,8 @@ Foodify is a complete subscription-based food delivery application which include
 This project was adjudged the best project of the `Introduction to UI/UX Design` course during the Winter Semester of the PESU/IO program, Slot 14, conducted by Kulachi Thapar at PES University, South Campus, Bengaluru.
 
 **Program Flow and Protoype:**
+
+
 ![Screenshot 2023-06-05 125616](https://github.com/probablyabdullah/Foodify/assets/79295754/a127ddcf-c44c-4a61-ae53-398e0aae7819)
 
 
