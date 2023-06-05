@@ -1,0 +1,39 @@
+/* Some Examples of the Figma Project converted to CSS code for your satisfaction */
+
+/* Landing Page 1 */
+
+
+position: relative;
+width: 390px;
+height: 844px;
+
+background: #000000;
+border-radius: 20px;
+
+/* Promo Advertising */
+
+
+position: absolute;
+width: 325px;
+height: 150px;
+left: 39px;
+top: 225px;
+
+/* Restaurant List */
+
+
+position: absolute;
+width: 479px;
+height: 184px;
+left: 25px;
+top: 427px;
+overflow-x: scroll;
+
+/* Icon Back */
+
+
+position: absolute;
+width: 45px;
+height: 45px;
+left: 25px;
+top: 48px;
