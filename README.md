@@ -6,7 +6,7 @@ Foodify is a complete subscription-based food delivery application which include
 
 This project was adjudged the best project of the `Introduction to UI/UX Design` course during the Winter Semester of the PESU/IO program, Slot 14, conducted by Kulachi Thapar at PES University, South Campus, Bengaluru.
 
-View the project [Figma Link!](https://www.figma.com/file/zlSwiJsBKat7c7JfmdHGQf/Foodify-Final-View?type=design&node-id=0%3A1&t=XgX1a5FrFCd644Ru-1)
+View the project via this [Figma Link!](https://www.figma.com/file/zlSwiJsBKat7c7JfmdHGQf/Foodify-Final-View?type=design&node-id=0%3A1&t=XgX1a5FrFCd644Ru-1)
 
 
 
